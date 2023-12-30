@@ -1,9 +1,7 @@
 Interests:
-- Fullstack w/ a sprinkle of DevOps
-- ML
-- Quantative Finance
+- ML + Quantitative Finance
+- FullStack
 
-\
 My stack: 📖 
 - Python
 - TypeScript
@@ -15,4 +13,3 @@ My stack: 📖
 - AWS (EC2 / S3 / RDS / ECR)
 - Nginx
 - TensorFlow
-\
