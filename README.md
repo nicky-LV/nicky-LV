@@ -1,7 +1,3 @@
-Interests:
-- ML + Quantitative Finance
-- FullStack
-
 My stack: 📖 
 - Python
 - TypeScript
